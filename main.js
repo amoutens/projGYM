@@ -1,3 +1,3 @@
 //go to the GYM
-let Name  = 'default';
-let SName = 'default';
+let Name  = 'Levi';
+let SName = 'Ackerman';
